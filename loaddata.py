@@ -14,7 +14,7 @@ a2 = data['a2']
 print('Array 1:', a1)
 print('Array 2:', a2)
 
-# # # Example 3: load data from text file
+# Example 3: load data from text file
 import numpy as np
 data = np.loadtxt('array.txt')
 print('Loaded Array from text file:', data)
